@@ -2,7 +2,7 @@
 
 ##**AIM**: To learn the basics of C++.
 
-##**THEORY**:__
+##**THEORY**:
 <p>The basics of C++ consists of general syntaxes which are used in almost all the C++ codes.For example:
 
 <p>1.for displaying the inputs and outputs [cin/cout]<br>
