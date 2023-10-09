@@ -18,4 +18,5 @@ step1:create a main function<br>
 step2:type "hello world" in the output syntax<br>
 step3:run the code to see the desired output.
 
+<p>Output of hello world and calculator programs: </p>
 
