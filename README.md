@@ -20,3 +20,5 @@ step3:run the code to see the desired output.
 
 <p>Output of hello world and calculator programs: </p>
 
+![Screenshot 2023-10-01 110106](https://github.com/SejalCh/Basics-of-CPP/assets/139526001/05d3321b-8af6-4359-9019-9bbd7138e368)
+![Screenshot 2023-10-01 110219](https://github.com/SejalCh/Basics-of-CPP/assets/139526001/d91353fd-6d27-436a-9bf4-41af1eb90078)
